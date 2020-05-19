@@ -1,6 +1,6 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
+Student name: Rohin Sharma
+Student number: 300081935
 Course code: ITI1121
 Lab: Lab01
 Course section: 02
